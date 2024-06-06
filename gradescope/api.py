@@ -1,13 +1,9 @@
-
 from __future__ import absolute_import
-
-import json as _json
 import typing as _typing
 
 import bs4 as _bs4
 import requests as _requests
 import six as _six
-import wsse.client.requests.auth as _wsse_auth
 
 import gradescope
 import gradescope.exceptions
@@ -15,9 +11,7 @@ import gradescope.exceptions
 
 BASE_URL = "https://www.gradescope.com"
 
-
 last_cookies = None
-
 
 def get_auth_cookies(username=None, password=None, **kwargs):
     # type: (_typing.Optional[str], _typing.Optional[str], _typing.Dict) -> _typing.Optional[dict]

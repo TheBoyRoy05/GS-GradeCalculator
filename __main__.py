@@ -1,6 +1,4 @@
-import gradescope as gs
+from gradescope import GSCalculator
 
-course_ids = gs.get_courses()
-print(course_ids)
-for id in course_ids:
-    print(gs.get_course_assignments(id))
+calc = GSCalculator(terms=["SP24"])
+calc.generate_json()

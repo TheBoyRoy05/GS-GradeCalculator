@@ -79,4 +79,4 @@ config = get_local_config(
 
 
 # Import top-level methods
-from gradescope.macros import *
+from gradescope.GSCalculator import *
