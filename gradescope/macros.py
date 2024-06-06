@@ -176,7 +176,7 @@ def get_course_assignments(course_id):
     result = gradescope.api.request(endpoint="courses/{}/assignments".format(course_id))
     soup = _bs4.BeautifulSoup(result.content.decode(), features="html.parser")
 
-    assignment_table = soup.find("table", {"class": "table-assignments"})
+    assignment_table = soup.find("table", {"id": "assignments"})
     assignment_rows = assignment_table.findChildren("tr",
                       {"class": "js-assignmentTableAssignmentRow"})
     

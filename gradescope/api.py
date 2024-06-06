@@ -94,6 +94,7 @@ def get_auth_cookies(username=None, password=None, **kwargs):
             }
             last_cookies = data
             return data
+    else: print(f"Error {response.status_code}")
 
 
 def request(endpoint=None, url=None, data=None, json=None, **kwargs):
@@ -104,7 +105,7 @@ def request(endpoint=None, url=None, data=None, json=None, **kwargs):
 
     if last_cookies is None:
         get_auth_cookies(**kwargs)
-
+        
     # If only endpoint was passed, augment with base URL
     if endpoint is not None:
         url = _six.moves.urllib.parse.urljoin(
