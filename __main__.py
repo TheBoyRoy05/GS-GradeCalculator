@@ -1,4 +1,4 @@
 from gradescope import GSCalculator
 
-calc = GSCalculator(terms=["SP24"])
+calc = GSCalculator()
 calc.generate_json()
