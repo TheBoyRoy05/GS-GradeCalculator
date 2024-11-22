@@ -1,0 +1,105 @@
+[
+    {
+        "name": "DSC40A",
+        "term": "SP24",
+        "id": "759109",
+        "categories": [
+            {
+                "category": "Homework",
+                "numDropLowest": 1,
+                "weight": 0.4,
+                "contains": "Homework"
+            },
+            {
+                "category": "Groupwork",
+                "numDropLowest": 1,
+                "weight": 0.4,
+                "contains": "Groupwork"
+            },
+            {
+                "category": "Midterm",
+                "weight": 0.2,
+                "contains": "Midterm"
+            },
+            {
+                "category": "Final",
+                "weight": 0.3,
+                "contains": "Final"
+            }
+        ]
+    },
+    {
+        "name": "DSC30_SP24_A00",
+        "term": "SP24",
+        "id": "760590",
+        "categories": [
+            {
+                "category": "Class Participation",
+                "weight": 0.02,
+                "extraCredit": true,
+                "contains": "N/A"
+            },
+            {
+                "category": "Reading Quizzes",
+                "weight": 0.1,
+                "contains": "N/A"
+            },
+            {
+                "category": "PA",
+                "weight": 0.36,
+                "contains": "PA"
+            },
+            {
+                "category": "PA Checkpoint",
+                "weight": 0.36,
+                "redemptionPolicy": true,
+                "extraCredit": true,
+                "contains": "N/A",
+                "pattern": "^PA[0-9]-Checkpoint$"
+            },
+            {
+                "category": "Discussion",
+                "weight": 0.04,
+                "contains": "N/A"
+            },
+            {
+                "category": "Midterm 1",
+                "weight": 0.1,
+                "contains": "Midterm1"
+            },
+            {
+                "category": "Midterm 2",
+                "weight": 0.1,
+                "contains": "Midterm2"
+            },
+            {
+                "category": "Final",
+                "weight": 0.3,
+                "contains": "Final"
+            }
+        ]
+    },
+    {
+        "name": "MATH31CH_SP24_A00",
+        "term": "SP24",
+        "id": "755219",
+        "categories": [
+            {
+                "category": "Homework",
+                "weight": 0.2,
+                "numDropLowest": 1,
+                "contains": "Homework"
+            },
+            {
+                "category": "Midterm",
+                "weight": 0.4,
+                "contains": "Midterm"
+            },
+            {
+                "category": "Final",
+                "weight": 0.4,
+                "contains": "Final"
+            }
+        ]
+    }
+]

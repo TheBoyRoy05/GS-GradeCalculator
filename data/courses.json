@@ -1,0 +1,1696 @@
+[
+  {
+    "name": "DSC40B",
+    "term": "FA24",
+    "id": "877732",
+    "assignments": [
+      {
+        "name": "Lab 01",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "9.0 / 9.0",
+        "start-datetime": "2024-09-30 11:00:00 -0700",
+        "end-datetime": "2024-10-04 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 01",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "23.0 / 23.0",
+        "start-datetime": "2024-10-01 15:07:00 -0700",
+        "end-datetime": "2024-10-08 23:59:00 -0700"
+      },
+      {
+        "name": "Lab 02",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "12.0 / 12.0",
+        "start-datetime": "2024-10-05 00:00:00 -0700",
+        "end-datetime": "2024-10-11 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 02",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "35.0 / 35.0",
+        "start-datetime": "2024-10-09 00:00:00 -0700",
+        "end-datetime": "2024-10-15 23:59:00 -0700"
+      },
+      {
+        "name": "Lab 03",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "8.0 / 9.0",
+        "start-datetime": "2024-10-12 00:00:00 -0700",
+        "end-datetime": "2024-10-18 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 03",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "15.5 / 15.5",
+        "start-datetime": "2024-10-16 00:00:00 -0700",
+        "end-datetime": "2024-10-22 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 03 - Programming Problem 01",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "7.0 / 7.0",
+        "start-datetime": "2024-10-16 16:43:00 -0700",
+        "end-datetime": "2024-10-22 23:59:00 -0700"
+      },
+      {
+        "name": "Lab 04",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "9.0 / 9.0",
+        "start-datetime": "2024-10-19 00:00:00 -0700",
+        "end-datetime": "2024-10-25 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 04",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "8.0 / 8.0",
+        "start-datetime": "2024-10-23 00:00:00 -0700",
+        "end-datetime": "2024-10-29 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 04 - Programming Problem 01",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "7.0 / 7.0",
+        "start-datetime": "2024-10-23 00:00:00 -0700",
+        "end-datetime": "2024-10-29 23:59:00 -0700"
+      },
+      {
+        "name": "Lab 05",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "6.0 / 6.0",
+        "start-datetime": "2024-10-26 00:00:00 -0700",
+        "end-datetime": "2024-11-01 23:59:00 -0700"
+      },
+      {
+        "name": "Midterm 01",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "24.0 / 26.0"
+      },
+      {
+        "name": "Homework 05 - Programming Problem 01",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "11.0 / 12.0",
+        "start-datetime": "2024-10-30 00:00:00 -0700",
+        "end-datetime": "2024-11-05 23:59:00 -0800"
+      },
+      {
+        "name": "Lab 06",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "14.0 / 14.0",
+        "start-datetime": "2024-11-02 00:00:00 -0700",
+        "end-datetime": "2024-11-08 23:59:00 -0800"
+      },
+      {
+        "name": "Homework 06",
+        "id": "assignments",
+        "submission-status": "Submitted",
+        "start-datetime": "2024-11-07 00:00:00 -0800",
+        "end-datetime": "2024-11-12 23:59:00 -0800"
+      },
+      {
+        "name": "Homework 06 - Programming Problem 01",
+        "id": "assignments",
+        "submission-status": "Submitted",
+        "start-datetime": "2024-11-07 00:00:00 -0800",
+        "end-datetime": "2024-11-12 23:59:00 -0800"
+      },
+      {
+        "name": "Lab 07",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "11.0 / 12.0",
+        "start-datetime": "2024-11-10 00:00:00 -0800",
+        "end-datetime": "2024-11-15 23:59:00 -0800"
+      },
+      {
+        "name": "Homework 07",
+        "id": "assignments",
+        "submission-status": "Submitted",
+        "start-datetime": "2024-11-13 00:00:00 -0800",
+        "end-datetime": "2024-11-19 23:59:00 -0800"
+      },
+      {
+        "name": "Homework 07 - Programming Problem 02",
+        "id": "assignments",
+        "submission-status": "Submitted",
+        "start-datetime": "2024-11-13 00:00:00 -0800",
+        "end-datetime": "2024-11-19 23:59:00 -0800"
+      },
+      {
+        "name": "Homework 07 - Programming Problem 01",
+        "id": "assignments",
+        "submission-status": "Submitted",
+        "start-datetime": "2024-11-13 00:00:00 -0800",
+        "end-datetime": "2024-11-19 23:59:00 -0800"
+      },
+      {
+        "name": "Lab 08",
+        "id": "assignments",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-11-16 00:00:00 -0800",
+        "end-datetime": "2024-11-22 23:59:00 -0800"
+      }
+    ]
+  },
+  {
+    "name": "DSC80_FA24_A00",
+    "term": "FA24",
+    "id": "877914",
+    "assignments": [
+      {
+        "name": "Lab 01",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "133.0 / 133.0",
+        "start-datetime": "2024-09-28 23:59:00 -0700",
+        "end-datetime": "2024-10-04 23:59:00 -0700"
+      },
+      {
+        "name": "Project 1",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "121.0 / 123.0",
+        "start-datetime": "2024-10-02 17:10:00 -0700",
+        "end-datetime": "2024-10-15 23:59:00 -0700"
+      },
+      {
+        "name": "Project 1 Checkpoint",
+        "id": "assignments",
+        "submission-status": "Submitted",
+        "start-datetime": "2024-10-02 18:06:00 -0700",
+        "end-datetime": "2024-10-08 23:59:00 -0700"
+      },
+      {
+        "name": "Lab 02",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "72.5 / 79.5",
+        "start-datetime": "2024-10-04 22:00:00 -0700",
+        "end-datetime": "2024-10-11 23:59:00 -0700"
+      },
+      {
+        "name": "Lab 1 Redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-10-05 23:59:00 -0700",
+        "end-datetime": "2024-10-11 23:59:00 -0700"
+      },
+      {
+        "name": "Lab 3",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "56.0 / 56.0",
+        "start-datetime": "2024-10-11 23:30:00 -0700",
+        "end-datetime": "2024-10-18 23:59:00 -0700"
+      },
+      {
+        "name": "Project 2 Checkpoint",
+        "id": "assignments",
+        "submission-status": "Submitted",
+        "start-datetime": "2024-10-14 18:10:00 -0700",
+        "end-datetime": "2024-10-22 23:59:00 -0700"
+      },
+      {
+        "name": "Project 2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "98.0 / 101.0",
+        "start-datetime": "2024-10-14 18:13:00 -0700",
+        "end-datetime": "2024-10-29 23:59:00 -0700"
+      },
+      {
+        "name": "Lab 2 Redemption",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "78.5 / 79.5",
+        "start-datetime": "2024-10-15 15:00:00 -0700",
+        "end-datetime": "2024-10-18 23:59:00 -0700"
+      },
+      {
+        "name": "Lab 3 Redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-10-20 23:59:00 -0700",
+        "end-datetime": "2024-10-25 23:59:00 -0700"
+      },
+      {
+        "name": "Project 1 Redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-10-16 11:30:00 -0700",
+        "end-datetime": "2024-10-22 23:59:00 -0700"
+      },
+      {
+        "name": "Lab 4",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "90.5 / 93.0",
+        "start-datetime": "2024-10-18 23:59:00 -0700",
+        "end-datetime": "2024-10-25 23:59:00 -0700"
+      },
+      {
+        "name": "Lab 5",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "61.0 / 61.0",
+        "start-datetime": "2024-10-25 23:59:00 -0700",
+        "end-datetime": "2024-11-04 23:59:00 -0800"
+      },
+      {
+        "name": "Lab 4 Redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-10-29 01:00:00 -0700",
+        "end-datetime": "2024-11-03 23:59:00 -0800"
+      },
+      {
+        "name": "Project 3",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "94.5 / 101.0",
+        "start-datetime": "2024-10-30 15:04:00 -0700",
+        "end-datetime": "2024-11-12 23:59:00 -0800"
+      },
+      {
+        "name": "Project3 Checkpoints",
+        "id": "assignments",
+        "submission-status": "Submitted",
+        "start-datetime": "2024-10-30 15:11:00 -0700",
+        "end-datetime": "2024-11-05 23:59:00 -0800"
+      },
+      {
+        "name": "Project 2 Redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-11-01 23:49:00 -0700",
+        "end-datetime": "2024-11-07 23:59:00 -0800"
+      },
+      {
+        "name": "Lab 6",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "55.0 / 56.0",
+        "start-datetime": "2024-11-03 23:59:00 -0800",
+        "end-datetime": "2024-11-08 23:59:00 -0800"
+      },
+      {
+        "name": "Lab 5 Redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-11-06 23:59:00 -0800",
+        "end-datetime": "2024-11-14 23:59:00 -0800"
+      },
+      {
+        "name": "Midterm",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "22.0 / 25.0"
+      },
+      {
+        "name": "Lab 7",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "89.0 / 111.0",
+        "start-datetime": "2024-11-08 23:59:00 -0800",
+        "end-datetime": "2024-11-15 23:59:00 -0800"
+      },
+      {
+        "name": "Lab 6 Redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-11-10 23:59:00 -0800",
+        "end-datetime": "2024-11-17 23:59:00 -0800"
+      },
+      {
+        "name": "Project 4 (Checkpoint2)",
+        "id": "assignments",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-11-12 13:59:00 -0800",
+        "end-datetime": "2024-11-26 23:59:00 -0800"
+      },
+      {
+        "name": "Project 4 (Checkpoint1)",
+        "id": "assignments",
+        "submission-status": "Submitted",
+        "start-datetime": "2024-11-12 14:02:00 -0800",
+        "end-datetime": "2024-11-19 23:59:00 -0800"
+      },
+      {
+        "name": "Midterm Redemption",
+        "id": "assignments",
+        "submission-status": "Submitted",
+        "start-datetime": "2024-11-13 12:30:00 -0800",
+        "end-datetime": "2024-11-20 23:59:00 -0800"
+      },
+      {
+        "name": "Project 4 Notebook PDF (League of Legends)",
+        "id": "5324912",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-11-14 22:45:00 -0800",
+        "end-datetime": "2024-12-06 23:59:00 -0800"
+      },
+      {
+        "name": "Project 4 Notebook PDF (Power Outages)",
+        "id": "5324929",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-11-14 22:45:00 -0800",
+        "end-datetime": "2024-12-06 23:59:00 -0800"
+      },
+      {
+        "name": "Project 4 Notebook PDF (Recipes and Ratings)",
+        "id": "5324943",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-11-14 22:45:00 -0800",
+        "end-datetime": "2024-12-06 23:59:00 -0800"
+      },
+      {
+        "name": "Project 4 Website Link (All Datasets)",
+        "id": "assignments",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-11-14 22:00:00 -0800",
+        "end-datetime": "2024-12-06 23:59:00 -0800"
+      },
+      {
+        "name": "Lab 8",
+        "id": "5334790",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-11-15 23:59:00 -0800",
+        "end-datetime": "2024-11-22 23:59:00 -0800"
+      },
+      {
+        "name": "Project 3 (Redemption)",
+        "id": "5335561",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-11-16 15:04:00 -0800",
+        "end-datetime": "2024-11-21 23:59:00 -0800"
+      },
+      {
+        "name": "Lab 7 Redemption",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "111.0 / 111.0",
+        "start-datetime": "2024-11-17 23:59:00 -0800",
+        "end-datetime": "2024-11-24 23:59:00 -0800"
+      }
+    ]
+  },
+  {
+    "name": "MATH173A_FA24_B00",
+    "term": "FA24",
+    "id": "850356",
+    "assignments": [
+      {
+        "name": "Homework 1",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "120.0 / 120.0",
+        "start-datetime": "2024-10-02 12:03:00 -0700",
+        "end-datetime": "2024-10-15 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "75.0 / 70.0",
+        "start-datetime": "2024-10-15 20:17:00 -0700",
+        "end-datetime": "2024-10-22 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 3",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "50.0 / 50.0",
+        "start-datetime": "2024-10-22 20:57:00 -0700",
+        "end-datetime": "2024-10-29 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 3.5",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "25.0 / 25.0",
+        "start-datetime": "2024-10-24 12:37:00 -0700",
+        "end-datetime": "2024-11-06 23:59:00 -0800"
+      },
+      {
+        "name": "Midterm ",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "70.0 / 75.0"
+      },
+      {
+        "name": "Homework 4",
+        "id": "assignments",
+        "submission-status": "Submitted",
+        "start-datetime": "2024-11-06 10:48:00 -0800",
+        "end-datetime": "2024-11-13 21:00:00 -0800"
+      },
+      {
+        "name": "Homework 5",
+        "id": "assignments",
+        "submission-status": "Submitted",
+        "start-datetime": "2024-11-12 19:59:00 -0800",
+        "end-datetime": "2024-11-19 23:59:00 -0800"
+      },
+      {
+        "name": "Homework 6",
+        "id": "5355384",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-11-20 10:48:00 -0800",
+        "end-datetime": "2024-11-26 11:59:00 -0800"
+      }
+    ]
+  },
+  {
+    "name": "DSC40A",
+    "term": "SP24",
+    "id": "759109",
+    "assignments": [
+      {
+        "name": "Homework 1",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "34.0 / 36.0",
+        "start-datetime": "2024-04-05 22:45:00 -0700",
+        "end-datetime": "2024-04-11 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 1, Problems 6(a) and 6(c)",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "4.0 / 4.0",
+        "start-datetime": "2024-04-05 23:49:00 -0700",
+        "end-datetime": "2024-04-11 23:59:00 -0700"
+      },
+      {
+        "name": "Groupwork 1",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "5.0 / 5.0",
+        "start-datetime": "2024-04-08 00:00:00 -0700",
+        "end-datetime": "2024-04-08 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "57.0 / 58.0",
+        "start-datetime": "2024-04-12 23:59:00 -0700",
+        "end-datetime": "2024-04-18 23:59:00 -0700"
+      },
+      {
+        "name": "Groupwork 2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "5.0 / 5.0",
+        "start-datetime": "2024-04-15 00:00:00 -0700",
+        "end-datetime": "2024-04-15 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 3, Problems 6(b) and 6(c)",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "8.0 / 8.0",
+        "start-datetime": "2024-04-20 21:13:00 -0700",
+        "end-datetime": "2024-04-27 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 3",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "42.5 / 48.0",
+        "start-datetime": "2024-04-20 21:13:00 -0700",
+        "end-datetime": "2024-04-27 23:59:00 -0700"
+      },
+      {
+        "name": "Groupwork 3",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "5.0 / 5.0",
+        "start-datetime": "2024-04-22 00:00:00 -0700",
+        "end-datetime": "2024-04-22 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 4, Problem 5",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "13.75 / 14.0",
+        "start-datetime": "2024-04-27 12:04:00 -0700",
+        "end-datetime": "2024-05-02 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 4",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "33.0 / 36.0",
+        "start-datetime": "2024-04-27 12:06:00 -0700",
+        "end-datetime": "2024-05-02 23:59:00 -0700"
+      },
+      {
+        "name": "Groupwork 4",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "5.0 / 5.0",
+        "start-datetime": "2024-04-29 00:00:00 -0700",
+        "end-datetime": "2024-04-29 23:59:00 -0700"
+      },
+      {
+        "name": "Midterm Exam",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "60.5 / 65.0"
+      },
+      {
+        "name": "Grade Report",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "94.0548 / 100.0",
+        "start-datetime": "2024-04-25 12:00:00 -0700",
+        "end-datetime": "2024-05-02 12:00:00 -0700"
+      },
+      {
+        "name": "Homework 5",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "50.0 / 52.0",
+        "start-datetime": "2024-05-10 23:59:00 -0700",
+        "end-datetime": "2024-05-16 23:59:00 -0700"
+      },
+      {
+        "name": "Groupwork 5",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "5.0 / 5.0",
+        "start-datetime": "2024-05-13 00:00:00 -0700",
+        "end-datetime": "2024-05-13 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 6",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "53.0 / 53.0",
+        "start-datetime": "2024-05-19 12:17:00 -0700",
+        "end-datetime": "2024-05-23 23:59:00 -0700"
+      },
+      {
+        "name": "Groupwork 6",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "5.0 / 5.0",
+        "start-datetime": "2024-05-20 00:00:00 -0700",
+        "end-datetime": "2024-05-20 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 7",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "53.0 / 55.0",
+        "start-datetime": "2024-05-28 13:00:00 -0700",
+        "end-datetime": "2024-05-30 23:59:00 -0700"
+      },
+      {
+        "name": "Groupwork 7",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "5.0 / 5.0",
+        "start-datetime": "2024-06-03 00:00:00 -0700",
+        "end-datetime": "2024-06-03 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 8",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "26.0 / 26.0",
+        "start-datetime": "2024-06-04 15:57:00 -0700",
+        "end-datetime": "2024-06-06 23:59:00 -0700"
+      },
+      {
+        "name": "Final Exam",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "87.0 / 106.0"
+      }
+    ]
+  },
+  {
+    "name": "DSC30_SP24_A00",
+    "term": "SP24",
+    "id": "760590",
+    "assignments": [
+      {
+        "name": "PA1",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "101.5 / 97.0",
+        "start-datetime": "2024-04-02 15:00:00 -0700",
+        "end-datetime": "2024-04-08 23:59:00 -0700"
+      },
+      {
+        "name": "PA2-Checkpoint",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "5.0 / 5.0",
+        "start-datetime": "2024-04-08 23:00:00 -0700",
+        "end-datetime": "2024-04-12 23:59:00 -0700"
+      },
+      {
+        "name": "PA2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "95.5 / 97.0",
+        "start-datetime": "2024-04-10 13:30:00 -0700",
+        "end-datetime": "2024-04-15 23:59:00 -0700"
+      },
+      {
+        "name": "PA1-Redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-04-15 13:00:00 -0700",
+        "end-datetime": "2024-04-22 23:59:00 -0700"
+      },
+      {
+        "name": "PA3-Checkpoint",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "5.0 / 5.0",
+        "start-datetime": "2024-04-16 16:30:00 -0700",
+        "end-datetime": "2024-04-19 23:59:00 -0700"
+      },
+      {
+        "name": "PA3",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "87.0 / 97.0",
+        "start-datetime": "2024-04-17 22:30:00 -0700",
+        "end-datetime": "2024-04-22 23:59:00 -0700"
+      },
+      {
+        "name": "PA4-Checkpoint-1",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "3.0 / 3.0",
+        "start-datetime": "2024-04-24 09:45:00 -0700",
+        "end-datetime": "2024-04-27 23:59:00 -0700"
+      },
+      {
+        "name": "PA2-Redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-04-25 15:00:00 -0700",
+        "end-datetime": "2024-05-02 23:59:00 -0700"
+      },
+      {
+        "name": "Midterm1_V1",
+        "submission-status": "No Submission"
+      },
+      {
+        "name": "Midterm1_V2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "29.0 / 29.0"
+      },
+      {
+        "name": "PA4-Checkpoint-2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "2.0 / 2.0",
+        "start-datetime": "2024-04-28 19:22:00 -0700",
+        "end-datetime": "2024-04-29 23:59:00 -0700"
+      },
+      {
+        "name": "PA4",
+        "id": "assignments",
+        "start-datetime": "2024-04-29 13:00:00 -0700",
+        "end-datetime": "2024-05-01 23:59:00 -0700"
+      },
+      {
+        "name": "PA3-Redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-04-29 18:00:00 -0700",
+        "end-datetime": "2024-05-06 23:59:00 -0700"
+      },
+      {
+        "name": "PA5-Checkpoint",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "5.0 / 5.0",
+        "start-datetime": "2024-05-03 16:00:00 -0700",
+        "end-datetime": "2024-05-05 23:59:00 -0700"
+      },
+      {
+        "name": "PA5",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "96.0 / 97.0",
+        "start-datetime": "2024-05-07 12:45:00 -0700",
+        "end-datetime": "2024-05-08 23:59:00 -0700"
+      },
+      {
+        "name": "PA6-Checkpoint",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "4.75 / 5.0",
+        "start-datetime": "2024-05-10 12:00:00 -0700",
+        "end-datetime": "2024-05-13 23:59:00 -0700"
+      },
+      {
+        "name": "PA4-Redemption",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "100.0 / 97.0",
+        "start-datetime": "2024-05-10 13:00:00 -0700",
+        "end-datetime": "2024-05-17 23:59:00 -0700"
+      },
+      {
+        "name": "PA6",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "79.5 / 97.0",
+        "start-datetime": "2024-05-11 19:30:00 -0700",
+        "end-datetime": "2024-05-16 23:59:00 -0700"
+      },
+      {
+        "name": "PA7-Checkpoint",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "2.0 / 5.0",
+        "start-datetime": "2024-05-19 23:59:00 -0700",
+        "end-datetime": "2024-05-22 23:59:00 -0700"
+      },
+      {
+        "name": "PA5-Redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-05-20 00:01:00 -0700",
+        "end-datetime": "2024-05-27 23:59:00 -0700"
+      },
+      {
+        "name": "Midterm2_V1",
+        "submission-status": "No Submission"
+      },
+      {
+        "name": "Midterm2_V2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "21.45 / 28.0"
+      },
+      {
+        "name": "PA7",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "97.0 / 97.0",
+        "start-datetime": "2024-05-21 22:20:00 -0700",
+        "end-datetime": "2024-05-24 23:59:00 -0700"
+      },
+      {
+        "name": "PA6-Redemption",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "86.0 / 97.0",
+        "start-datetime": "2024-05-27 02:50:00 -0700",
+        "end-datetime": "2024-06-03 23:59:00 -0700"
+      },
+      {
+        "name": "PA8-Checkpoint",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-05-29 13:11:00 -0700",
+        "end-datetime": "2024-05-30 23:59:00 -0700"
+      },
+      {
+        "name": "PA8",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "95.5 / 97.0",
+        "start-datetime": "2024-05-29 15:30:00 -0700",
+        "end-datetime": "2024-06-01 23:59:00 -0700"
+      },
+      {
+        "name": "PA7-Redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-06-02 20:10:00 -0700",
+        "end-datetime": "2024-06-10 23:59:00 -0700"
+      },
+      {
+        "name": "PA8-Redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-06-04 12:09:00 -0700",
+        "end-datetime": "2024-06-11 23:59:00 -0700"
+      },
+      {
+        "name": "PA9-Checkpoint",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "0.0 / 5.0",
+        "start-datetime": "2024-06-04 20:28:00 -0700",
+        "end-datetime": "2024-06-08 23:59:00 -0700"
+      },
+      {
+        "name": "PA9",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "89.75 / 97.0",
+        "start-datetime": "2024-06-06 16:20:00 -0700",
+        "end-datetime": "2024-06-10 23:59:00 -0700"
+      },
+      {
+        "name": "Bonus Project EC Quiz",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "4.0 / 5.0",
+        "start-datetime": "2024-06-08 15:00:00 -0700",
+        "end-datetime": "2024-06-15 15:00:00 -0700"
+      },
+      {
+        "name": "PA9-Redemption",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "82.75 / 82.0",
+        "start-datetime": "2024-06-13 11:54:00 -0700",
+        "end-datetime": "2024-06-14 23:59:00 -0700"
+      }
+    ]
+  },
+  {
+    "name": "MATH31CH_SP24_A00",
+    "term": "SP24",
+    "id": "755219",
+    "assignments": [
+      {
+        "name": "Homework Assignment 1",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "40.0 / 40.0",
+        "start-datetime": "2024-04-02 14:00:00 -0700",
+        "end-datetime": "2024-04-09 14:00:00 -0700"
+      },
+      {
+        "name": "Homework Assignment 2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "40.0 / 40.0",
+        "start-datetime": "2024-04-09 17:00:00 -0700",
+        "end-datetime": "2024-04-16 14:00:00 -0700"
+      },
+      {
+        "name": "Homework Assignment 3",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "40.0 / 40.0",
+        "start-datetime": "2024-04-16 14:00:00 -0700",
+        "end-datetime": "2024-04-23 14:00:00 -0700"
+      },
+      {
+        "name": "Homework Assignment 4",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "40.0 / 40.0",
+        "start-datetime": "2024-04-24 18:00:00 -0700",
+        "end-datetime": "2024-05-07 14:00:00 -0700"
+      },
+      {
+        "name": "Midterm 1",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "75.0 / 100.0"
+      },
+      {
+        "name": "Homework Assignment 5",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "37.0 / 40.0",
+        "start-datetime": "2024-05-07 18:00:00 -0700",
+        "end-datetime": "2024-05-14 14:00:00 -0700"
+      },
+      {
+        "name": "Homework Assignment 6",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "39.75 / 40.0",
+        "start-datetime": "2024-05-15 18:00:00 -0700",
+        "end-datetime": "2024-05-21 14:00:00 -0700"
+      },
+      {
+        "name": "Homework Assignment 7",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "40.0 / 40.0",
+        "start-datetime": "2024-05-22 13:00:00 -0700",
+        "end-datetime": "2024-06-04 14:00:00 -0700"
+      },
+      {
+        "name": "Midterm 2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "90.0 / 100.0"
+      },
+      {
+        "name": "Final Exam ",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "175.0 / 200.0"
+      }
+    ]
+  },
+  {
+    "name": "DSC20_WI24_A00",
+    "term": "WI24",
+    "id": "696711",
+    "assignments": [
+      {
+        "name": "lab00",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "10.0 / 10.0",
+        "start-datetime": "2024-01-08 00:00:00 -0800",
+        "end-datetime": "2024-01-17 23:59:00 -0800"
+      },
+      {
+        "name": "hw01",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "93.0 / 100.0",
+        "start-datetime": "2024-01-08 00:00:00 -0800",
+        "end-datetime": "2024-01-16 23:59:00 -0800"
+      },
+      {
+        "name": "lab01",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "11.0 / 10.0",
+        "start-datetime": "2024-01-08 00:00:00 -0800",
+        "end-datetime": "2024-01-16 23:59:00 -0800"
+      },
+      {
+        "name": "Skill Demo 1",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "2.0 / 2.0",
+        "start-datetime": "2024-01-21 09:00:00 -0800",
+        "end-datetime": "2024-01-21 20:59:00 -0800"
+      },
+      {
+        "name": "hw02",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "100.0 / 100.0",
+        "start-datetime": "2024-01-17 08:25:00 -0800",
+        "end-datetime": "2024-01-23 23:59:00 -0800"
+      },
+      {
+        "name": "lab02",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "11.0 / 10.0",
+        "start-datetime": "2024-01-17 08:30:00 -0800",
+        "end-datetime": "2024-01-23 23:59:00 -0800"
+      },
+      {
+        "name": "Skill Demo 2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "2.0 / 2.0",
+        "start-datetime": "2024-01-28 13:36:00 -0800",
+        "end-datetime": "2024-01-28 13:36:00 -0800"
+      },
+      {
+        "name": "hw01 redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-01-21 23:00:00 -0800",
+        "end-datetime": "2024-01-28 23:59:00 -0800"
+      },
+      {
+        "name": "lab03",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "12.0 / 10.0",
+        "start-datetime": "2024-01-24 00:00:00 -0800",
+        "end-datetime": "2024-01-30 23:59:00 -0800"
+      },
+      {
+        "name": "hw03",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "106.0 / 100.0",
+        "start-datetime": "2024-01-25 11:14:00 -0800",
+        "end-datetime": "2024-01-30 23:59:00 -0800"
+      },
+      {
+        "name": "hw03_checkpoint",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "3.0 / 3.0",
+        "start-datetime": "2024-01-25 11:34:00 -0800",
+        "end-datetime": "2024-01-28 23:59:00 -0800"
+      },
+      {
+        "name": "hw02_redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-01-31 14:48:00 -0800",
+        "end-datetime": "2024-02-07 23:59:00 -0800"
+      },
+      {
+        "name": "lab04",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "11.0 / 10.0",
+        "start-datetime": "2024-01-31 21:40:00 -0800",
+        "end-datetime": "2024-02-06 23:59:00 -0800"
+      },
+      {
+        "name": "hw04",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "104.0 / 100.0",
+        "start-datetime": "2024-02-02 14:52:00 -0800",
+        "end-datetime": "2024-02-06 23:59:00 -0800"
+      },
+      {
+        "name": "hw04_checkpoint",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "3.0 / 3.0",
+        "start-datetime": "2024-02-02 14:57:00 -0800",
+        "end-datetime": "2024-02-04 23:59:00 -0800"
+      },
+      {
+        "name": "Skill Demo 3",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "1.5 / 2.0",
+        "start-datetime": "2024-02-04 00:00:00 -0800",
+        "end-datetime": "2024-02-10 12:45:00 -0800"
+      },
+      {
+        "name": "lab05",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "11.0 / 10.0",
+        "start-datetime": "2024-02-07 20:23:00 -0800",
+        "end-datetime": "2024-02-13 23:59:00 -0800"
+      },
+      {
+        "name": "hw03_redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-02-07 22:42:00 -0800",
+        "end-datetime": "2024-02-15 23:59:00 -0800"
+      },
+      {
+        "name": "hw05",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "98.5 / 100.0",
+        "start-datetime": "2024-02-09 16:53:00 -0800",
+        "end-datetime": "2024-02-13 23:59:00 -0800"
+      },
+      {
+        "name": "hw05_checkpoint",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "3.0 / 3.0",
+        "start-datetime": "2024-02-09 16:54:00 -0800",
+        "end-datetime": "2024-02-11 23:59:00 -0800"
+      },
+      {
+        "name": "Skill Demo 4",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "2.0 / 2.0",
+        "start-datetime": "2024-02-04 00:00:00 -0800",
+        "end-datetime": "2024-02-10 12:45:00 -0800"
+      },
+      {
+        "name": "lab06",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "12.7 / 10.0",
+        "start-datetime": "2024-02-13 18:46:00 -0800",
+        "end-datetime": "2024-02-20 23:59:00 -0800"
+      },
+      {
+        "name": "hw06_checkpoint",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "3.0 / 3.0",
+        "start-datetime": "2024-02-13 23:24:00 -0800",
+        "end-datetime": "2024-02-18 23:59:00 -0800"
+      },
+      {
+        "name": "hw06",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "100.0 / 100.0",
+        "start-datetime": "2024-02-13 23:29:00 -0800",
+        "end-datetime": "2024-02-20 23:59:00 -0800"
+      },
+      {
+        "name": "hw04_redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-02-17 14:18:00 -0800",
+        "end-datetime": "2024-02-24 23:59:00 -0800"
+      },
+      {
+        "name": "hw05_redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-02-19 22:00:00 -0800",
+        "end-datetime": "2024-02-26 23:59:00 -0800"
+      },
+      {
+        "name": "project_checkpoint",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "4.75 / 5.0",
+        "start-datetime": "2024-02-26 11:00:00 -0800",
+        "end-datetime": "2024-03-07 23:59:00 -0800"
+      },
+      {
+        "name": "project",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "94.0 / 100.0",
+        "start-datetime": "2024-02-26 11:00:00 -0800",
+        "end-datetime": "2024-03-14 23:59:00 -0700"
+      },
+      {
+        "name": "Skill Test 5",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "2.0 / 2.0",
+        "start-datetime": "2024-02-22 00:00:00 -0800",
+        "end-datetime": "2024-02-22 00:00:00 -0800"
+      },
+      {
+        "name": "lab07",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "11.0 / 10.0",
+        "start-datetime": "2024-02-22 13:49:00 -0800",
+        "end-datetime": "2024-02-27 23:59:00 -0800"
+      },
+      {
+        "name": "hw07",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "98.0 / 100.0",
+        "start-datetime": "2024-02-23 22:31:00 -0800",
+        "end-datetime": "2024-02-28 23:59:00 -0800"
+      },
+      {
+        "name": "hw08",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "103.0 / 100.0",
+        "start-datetime": "2024-02-28 00:00:00 -0800",
+        "end-datetime": "2024-03-05 23:59:00 -0800"
+      },
+      {
+        "name": "lab08",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "9.7 / 10.0",
+        "start-datetime": "2024-02-28 00:00:00 -0800",
+        "end-datetime": "2024-03-05 23:59:00 -0800"
+      },
+      {
+        "name": "hw09",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "105.0 / 100.0",
+        "start-datetime": "2024-03-06 00:00:00 -0800",
+        "end-datetime": "2024-03-12 23:59:00 -0700"
+      },
+      {
+        "name": "lab09",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "11.0 / 10.0",
+        "start-datetime": "2024-03-06 00:00:00 -0800",
+        "end-datetime": "2024-03-12 23:59:00 -0700"
+      },
+      {
+        "name": "hw07_checkpoint",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "3.0 / 3.0",
+        "start-datetime": "2024-02-23 22:55:00 -0800",
+        "end-datetime": "2024-02-25 23:59:00 -0800"
+      },
+      {
+        "name": "hw08_checkpoint",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "3.0 / 3.0",
+        "start-datetime": "2024-02-28 00:00:00 -0800",
+        "end-datetime": "2024-03-03 23:59:00 -0800"
+      },
+      {
+        "name": "hw06_redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-02-26 00:00:00 -0800",
+        "end-datetime": "2024-03-04 23:59:00 -0800"
+      },
+      {
+        "name": "hw07_redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-03-04 00:00:00 -0800",
+        "end-datetime": "2024-03-11 23:59:00 -0700"
+      },
+      {
+        "name": "hw08_redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-03-11 00:00:00 -0700",
+        "end-datetime": "2024-03-18 23:59:00 -0700"
+      },
+      {
+        "name": "hw09_redemption",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-03-18 00:00:00 -0700",
+        "end-datetime": "2024-03-23 23:59:00 -0700"
+      },
+      {
+        "name": "Midterm_v1",
+        "submission-status": "No Submission"
+      },
+      {
+        "name": "Midterm_V2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "26.1 / 29.0"
+      },
+      {
+        "name": "Skill Test Survey Credit",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-02-29 15:11:00 -0800",
+        "end-datetime": "2024-02-29 15:11:00 -0800"
+      },
+      {
+        "name": "hw09_checkpoint",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "3.0 / 3.0",
+        "start-datetime": "2024-03-06 19:19:00 -0800",
+        "end-datetime": "2024-03-10 23:59:00 -0700"
+      },
+      {
+        "name": "hw10",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-03-12 20:50:00 -0700",
+        "end-datetime": "2024-03-19 23:59:00 -0700"
+      },
+      {
+        "name": "Skill Test 3 Best Score (Retake)",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "1.5 / 2.0",
+        "start-datetime": "2024-03-15 00:00:00 -0700",
+        "end-datetime": "2024-03-15 00:00:00 -0700"
+      },
+      {
+        "name": "Skill Test 4 Best Score (Retake)",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "2.0 / 2.0",
+        "start-datetime": "2024-03-15 00:00:00 -0700",
+        "end-datetime": "2024-03-15 00:00:00 -0700"
+      },
+      {
+        "name": "Skill Test 5 Best Score (Retake)",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "2.0 / 2.0",
+        "start-datetime": "2024-03-15 00:00:00 -0700",
+        "end-datetime": "2024-03-15 00:00:00 -0700"
+      },
+      {
+        "name": "Skill Test Survey 2 Credit",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-03-23 03:42:00 -0700",
+        "end-datetime": "2024-03-23 03:42:00 -0700"
+      }
+    ]
+  },
+  {
+    "name": "MATH31BH_WI24_A00",
+    "term": "WI24",
+    "id": "685615",
+    "assignments": [
+      {
+        "name": "Homework Asignment 1",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "36.0 / 40.0",
+        "start-datetime": "2024-01-12 10:00:00 -0800",
+        "end-datetime": "2024-01-18 17:00:00 -0800"
+      },
+      {
+        "name": "Homework Assignment 2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "33.5 / 40.0",
+        "start-datetime": "2024-01-17 15:00:00 -0800",
+        "end-datetime": "2024-01-25 17:00:00 -0800"
+      },
+      {
+        "name": "Homework Assignment 3",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "40.0 / 40.0",
+        "start-datetime": "2024-01-26 11:00:00 -0800",
+        "end-datetime": "2024-02-01 17:00:00 -0800"
+      },
+      {
+        "name": "Homework Assignment 4",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "38.0 / 40.0",
+        "start-datetime": "2024-01-30 16:00:00 -0800",
+        "end-datetime": "2024-02-08 17:00:00 -0800"
+      },
+      {
+        "name": "Midterm 1",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "77.0 / 100.0"
+      },
+      {
+        "name": "Homework Assignment 5",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "37.0 / 40.0",
+        "start-datetime": "2024-02-06 17:00:00 -0800",
+        "end-datetime": "2024-02-22 17:00:00 -0800"
+      },
+      {
+        "name": "Homework Assignment 6",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "40.0 / 40.0",
+        "start-datetime": "2024-02-20 16:00:00 -0800",
+        "end-datetime": "2024-03-01 17:00:00 -0800"
+      },
+      {
+        "name": "Homework Assignment 7",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "40.0 / 40.0",
+        "start-datetime": "2024-02-27 17:00:00 -0800",
+        "end-datetime": "2024-03-14 17:00:00 -0700"
+      },
+      {
+        "name": "Midterm 2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "98.0 / 100.0"
+      },
+      {
+        "name": "Final Exam ",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "187.0 / 200.0"
+      }
+    ]
+  },
+  {
+    "name": "DSC10",
+    "term": "FA23",
+    "id": "633671",
+    "assignments": [
+      {
+        "name": "Lab 0",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "12.0 / 12.0",
+        "start-datetime": "2023-09-30 19:35:00 -0700",
+        "end-datetime": "2023-10-07 23:59:00 -0700"
+      },
+      {
+        "name": "Lab 1",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "30.0 / 30.0",
+        "start-datetime": "2023-10-06 18:31:00 -0700",
+        "end-datetime": "2023-10-12 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 1",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "33.3333 / 34.0",
+        "start-datetime": "2023-10-07 14:37:00 -0700",
+        "end-datetime": "2023-10-14 23:59:00 -0700"
+      },
+      {
+        "name": "Quiz 1",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "19.5 / 24.0"
+      },
+      {
+        "name": "Lab 2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "23.0 / 23.0",
+        "start-datetime": "2023-10-13 18:31:00 -0700",
+        "end-datetime": "2023-10-19 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "32.75 / 34.0",
+        "start-datetime": "2023-10-15 17:31:00 -0700",
+        "end-datetime": "2023-10-21 23:59:00 -0700"
+      },
+      {
+        "name": "Lab 3",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "15.0 / 15.0",
+        "start-datetime": "2023-10-21 11:33:00 -0700",
+        "end-datetime": "2023-10-26 23:59:00 -0700"
+      },
+      {
+        "name": "Homework 3",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "17.8 / 18.0",
+        "start-datetime": "2023-10-22 13:15:00 -0700",
+        "end-datetime": "2023-10-28 23:59:00 -0700"
+      },
+      {
+        "name": "Midterm Project",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "46.9833 / 53.0",
+        "start-datetime": "2023-10-22 23:26:00 -0700",
+        "end-datetime": "2023-11-06 23:59:00 -0800"
+      },
+      {
+        "name": "Quiz 2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "24.0 / 24.0"
+      },
+      {
+        "name": "Midterm Exam",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "69.0 / 80.0"
+      },
+      {
+        "name": "Grade Report ",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "94.1663 / 100.0",
+        "start-datetime": "2023-12-12 20:00:00 -0800",
+        "end-datetime": "2023-12-31 17:04:00 -0800"
+      },
+      {
+        "name": "Lab 4",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "19.0 / 19.0",
+        "start-datetime": "2023-11-02 21:40:00 -0700",
+        "end-datetime": "2023-11-09 23:59:00 -0800"
+      },
+      {
+        "name": "Homework 4",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "23.5 / 24.0",
+        "start-datetime": "2023-11-05 19:21:00 -0800",
+        "end-datetime": "2023-11-11 23:59:00 -0800"
+      },
+      {
+        "name": "Lab 5",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "15.0 / 15.0",
+        "start-datetime": "2023-11-11 14:31:00 -0800",
+        "end-datetime": "2023-11-18 23:59:00 -0800"
+      },
+      {
+        "name": "Homework 5",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "17.6 / 18.0",
+        "start-datetime": "2023-11-14 15:59:00 -0800",
+        "end-datetime": "2023-11-21 23:59:00 -0800"
+      },
+      {
+        "name": "Quiz 3",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "19.0 / 24.0"
+      },
+      {
+        "name": "Final Project",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "51.5 / 52.0",
+        "start-datetime": "2023-11-18 12:55:00 -0800",
+        "end-datetime": "2023-12-05 23:59:00 -0800"
+      },
+      {
+        "name": "Lab 6",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "11.0 / 11.0",
+        "start-datetime": "2023-11-19 11:41:00 -0800",
+        "end-datetime": "2023-11-27 23:59:00 -0800"
+      },
+      {
+        "name": "Homework 6",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "25.0 / 26.0",
+        "start-datetime": "2023-11-22 16:36:00 -0800",
+        "end-datetime": "2023-12-01 23:59:00 -0800"
+      },
+      {
+        "name": "Quiz 4",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "24.0 / 24.0"
+      },
+      {
+        "name": "Lab 7",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "15.0 / 15.0",
+        "start-datetime": "2023-11-30 18:42:00 -0800",
+        "end-datetime": "2023-12-07 23:59:00 -0800"
+      },
+      {
+        "name": "Final Exam",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "103.0 / 116.0"
+      },
+      {
+        "name": "test gr",
+        "submission-status": "No Submission",
+        "start-datetime": "2024-07-11 23:16:00 -0700",
+        "end-datetime": "2024-07-24 23:16:00 -0700"
+      }
+    ]
+  },
+  {
+    "name": "MATH31AH_FA23_A00",
+    "term": "FA23",
+    "id": "621450",
+    "assignments": [
+      {
+        "name": "Homework Assignment 0",
+        "id": "assignments",
+        "submission-status": "Submitted",
+        "start-datetime": "2023-09-26 17:00:00 -0700",
+        "end-datetime": "2023-10-05 09:00:00 -0700"
+      },
+      {
+        "name": "Homework Assignment 1",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "23.0 / 40.0",
+        "start-datetime": "2023-10-03 18:00:00 -0700",
+        "end-datetime": "2023-10-12 09:00:00 -0700"
+      },
+      {
+        "name": "Homework Assignment 2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "34.0 / 40.0",
+        "start-datetime": "2023-10-10 18:00:00 -0700",
+        "end-datetime": "2023-10-19 09:00:00 -0700"
+      },
+      {
+        "name": "Homework Assignment 3",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "40.0 / 40.0",
+        "start-datetime": "2023-10-18 18:07:00 -0700",
+        "end-datetime": "2023-10-26 09:00:00 -0700"
+      },
+      {
+        "name": "Homework Assignment 4",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "38.5 / 40.0",
+        "start-datetime": "2023-10-25 18:00:00 -0700",
+        "end-datetime": "2023-11-02 09:00:00 -0700"
+      },
+      {
+        "name": "Midterm 1",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "63.0 / 100.0"
+      },
+      {
+        "name": "Homework Assignment 5",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "33.0 / 40.0",
+        "start-datetime": "2023-10-31 18:00:00 -0700",
+        "end-datetime": "2023-11-09 09:00:00 -0800"
+      },
+      {
+        "name": "Homework Assignment 6",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "40.0 / 40.0",
+        "start-datetime": "2023-11-08 11:00:00 -0800",
+        "end-datetime": "2023-11-16 09:00:00 -0800"
+      },
+      {
+        "name": "Homework Assignment 7",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "38.0 / 40.0",
+        "start-datetime": "2023-11-15 18:00:00 -0800",
+        "end-datetime": "2023-11-30 09:00:00 -0800"
+      },
+      {
+        "name": "Midterm 2",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "77.0 / 100.0"
+      },
+      {
+        "name": "Homework Assignment 8",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "40.0 / 40.0",
+        "start-datetime": "2023-11-29 12:01:00 -0800",
+        "end-datetime": "2023-12-07 09:00:00 -0800"
+      },
+      {
+        "name": "Final Exam ",
+        "id": "assignments",
+        "submission-status": "Graded",
+        "score": "187.0 / 200.0"
+      }
+    ]
+  }
+]
